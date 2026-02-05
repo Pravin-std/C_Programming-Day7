@@ -19,7 +19,7 @@ int main()
     {
         if(arr[j]==arr[k])
         {
-            printf("%d ",arr[k]);arr7.c
+            printf("%d ",arr[k]);
             
         }
     }
